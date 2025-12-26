@@ -1,0 +1,26 @@
+{
+  "name": "tiny-nespress",
+  "version": "1.0.0",
+  "description": "Tiny HTTP micro-framework built on Node's core http module.",
+  "main": "lib/index.js",
+  "keywords": [
+    "http",
+    "server",
+    "microframework",
+    "node",
+    "web"
+  ],
+  "author": "Abhiraj Shourya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhirajshourya/tiny-nespress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhirajshourya/tiny-nespress/issues"
+  },
+  "homepage": "https://github.com/abhirajshourya/tiny-nespress#readme",
+  "engines": {
+    "node": ">=18"
+  }
+}
